@@ -1,0 +1,7 @@
+{
+  price: @listing.price,
+  address: @listing.address,
+  bedrooms: @listing.bedrooms,
+  year_built: @listing.year_built,
+  description: @listing.description
+}

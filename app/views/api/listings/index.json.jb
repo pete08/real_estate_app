@@ -1,0 +1,9 @@
+@listings.map do |listing|
+  {
+  
+  price: listing.price,
+  address: listing.address,
+  bedrooms: listing.bedrooms,
+  description: listing.description
+}
+end
