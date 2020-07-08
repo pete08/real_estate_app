@@ -3,5 +3,6 @@
   address: @listing.address,
   bedrooms: @listing.bedrooms,
   year_built: @listing.year_built,
-  description: @listing.description
+  description: @listing.description,
+  availability: @listing.availability
 }
